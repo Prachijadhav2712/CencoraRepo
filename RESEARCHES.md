@@ -1,0 +1,4 @@
+#ci/cd 
+
+#https://www.bing.com/ck/a?!&&p=d42311b39de4f58dJmltdHM9MTcyNTQwODAwMCZpZ3VpZD0yYTIyZjRiNi1iMzM3LTZkMTItM2ZhOC1lMDZjYjI4NzZjOGMmaW5zaWQ9NTIwMQ&ptn=3&ver=2&hsh=3&fclid=2a22f4b6-b337-6d12-3fa8-e06cb2876c8c&psq=cicd&u=a1aHR0cHM6Ly93d3cucmVkaGF0LmNvbS9lbi90b3BpY3MvZGV2b3BzL3doYXQtaXMtY2ktY2Q&ntb=1
+#https://www.bing.com/ck/a?!&&p=c93dba304c778fbdJmltdHM9MTcyNTQwODAwMCZpZ3VpZD0yYTIyZjRiNi1iMzM3LTZkMTItM2ZhOC1lMDZjYjI4NzZjOGMmaW5zaWQ9NTI1Nw&ptn=3&ver=2&hsh=3&fclid=2a22f4b6-b337-6d12-3fa8-e06cb2876c8c&psq=cicd+wikipedia&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ0kvQ0QjOn46dGV4dD1JbiBzb2Z0d2FyZSBlbmdpbmVlcmluZywgQ0kvQ0Qgb3IgQ0lDRCM6fjp0ZXh0PUluIHNvZnR3YXJlIGVuZ2luZWVyaW5nLCBDSS9DRCBvciBDSUNE&ntb=1
